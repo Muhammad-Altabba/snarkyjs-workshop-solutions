@@ -9,7 +9,7 @@ You can find the exercises [here](https://github.com/o1-labs/snarkyjs-workshop/t
 # Usage
 You need node version >= 16.4.
 
-You can run an example with:
+You can compile and run an example with:
 ```
-npx tsc && node dist/1_exercise.js
+npx tsc && node dist/[example_name].js
 ```
